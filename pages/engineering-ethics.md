@@ -1,3 +1,5 @@
+![header-image](../assets/images/header.jpg)
+
 Dealing with Plagiarism -- A Guide for Teaching Assistants
 ----------------------------------------------------------
 

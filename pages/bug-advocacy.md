@@ -1,3 +1,5 @@
+![header-image](../assets/images/header.jpg)
+
 Bug Advocacy: Effective Bug Investigation and Reporting
 -------------------------------------------------------
 

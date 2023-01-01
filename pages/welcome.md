@@ -1,3 +1,5 @@
+![header-image](../assets/images/header.jpg)
+
 Welcome to the *Black Box Software Testing* course site.
 --------------------------------------------------------
 

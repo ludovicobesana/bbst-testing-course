@@ -1,3 +1,5 @@
+![header-image](assets/images/header.jpg)
+
 # Welcome to the Black Box Software Testing course site repository
 
 This repository contains the resources and materials from the Black Box Software Testing course, originally created by Kaner, Fiedler & Associates.

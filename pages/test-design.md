@@ -1,3 +1,5 @@
+![header-image](../assets/images/header.jpg)
+
 Test Design: A Survey of Black Box Software Testing Techniques
 --------------------------------------------------------------
 

@@ -1,3 +1,5 @@
+![header-image](../assets/images/header.jpg)
+
 Additional Topics and Resources
 -------------------------------
 

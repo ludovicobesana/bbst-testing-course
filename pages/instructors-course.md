@@ -1,3 +1,5 @@
+![header-image](../assets/images/header.jpg)
+
 BBST Instructors Course
 -----------------------
 
